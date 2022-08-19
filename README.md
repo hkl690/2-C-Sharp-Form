@@ -1,4 +1,4 @@
-# C-Sharp-Dev-2
+# C-Sharp-Form
 
 Introduction project to C# WPF creating a form with buttons, textboxes, and checkboxes. 
 
